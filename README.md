@@ -1,4 +1,4 @@
-# Stock-Watch application for an Android Development class
+# Stock-Watch application.
 
 Stock-Watch fetches stock prices from a public API.
 
